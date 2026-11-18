@@ -8,3 +8,12 @@ FY2025:
   eobi_employee: 0.01
   eobi_employer: 0.05
   eobi_wage_ceiling: 32000
+FY2026:
+  slabs:
+    - [600000, 0.0]
+    - [1200000, 0.025]
+    - [2200000, 0.125]
+    - [.inf, 0.225]
+  eobi_employee: 0.01
+  eobi_employer: 0.05
+  eobi_wage_ceiling: 37000
