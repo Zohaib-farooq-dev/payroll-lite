@@ -1,0 +1,10 @@
+# Made-up demo rates. Keyed by fiscal year starting July.
+FY2025:
+  slabs:
+    - [600000, 0.0]
+    - [1200000, 0.05]
+    - [2400000, 0.15]
+    - [.inf, 0.25]
+  eobi_employee: 0.01
+  eobi_employer: 0.05
+  eobi_wage_ceiling: 32000
